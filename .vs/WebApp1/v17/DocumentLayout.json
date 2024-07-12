@@ -1,0 +1,988 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\daladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\daladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\ciplatformwebapi_v1\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\ciplatformwebapi_v1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\dalvolunteeringgoals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\dalvolunteeringgoals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\business_logic_layer\\jwtservice\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\jwtservice\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\business_logic_layer\\ballogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\ballogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\dallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\dallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\business_logic_layer\\baladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\baladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\dalmissionapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\dalmissionapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\dalcms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\dalcms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\dalcity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\dalcity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\dalmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\dalmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\dalcountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\dalcountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\dalcontactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\dalcontactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\dalvolunteeringhours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\dalvolunteeringhours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\entity\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\entity\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\ciplatformwebapi_v1\\controllers\\cmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\controllers\\cmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\business_logic_layer\\balmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\balmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\ciplatformwebapi_v1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\entity\\volunteeringhours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\entity\\volunteeringhours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\entity\\countries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\entity\\countries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\entity\\cities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\entity\\cities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\ciplatformwebapi_v1\\controllers\\volunteeringgoalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\controllers\\volunteeringgoalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\ciplatformwebapi_v1\\controllers\\volunteeringhourscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\controllers\\volunteeringhourscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\ciplatformwebapi_v1\\controllers\\missionskillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\controllers\\missionskillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\ciplatformwebapi_v1\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\ciplatformwebapi_v1\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\ciplatformwebapi_v1\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\ciplatformwebapi_v1\\controllers\\adminmissionthemecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\controllers\\adminmissionthemecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\ciplatformwebapi_v1\\controllers\\contactuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\controllers\\contactuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\business_logic_layer\\balcontactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\balcontactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\entity\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\entity\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\business_logic_layer\\balvolunteeringgoals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\balvolunteeringgoals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\business_logic_layer\\balvolunteeringhours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\balvolunteeringhours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\dalmissionskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\dalmissionskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\business_logic_layer\\balcms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\balcms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\entity\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\entity\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\business_logic_layer\\balcity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\balcity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\business_logic_layer\\balcountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\balcountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\ciplatformwebapi_v1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\ciplatformwebapi_v1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\ciplatformwebapi_v1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\business_logic_layer\\balmissionapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\balmissionapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\ciplatformwebapi_v1\\controllers\\missionapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\controllers\\missionapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\business_logic_layer\\baladminmissiontheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\baladminmissiontheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\migrations\\20240710170654_initii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\migrations\\20240710170654_initii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\business_logic_layer\\balmissionskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\balmissionskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\daladminmissiontheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\daladminmissiontheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\data_logic_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\data_logic_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\business_logic_layer\\business_logic_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\business_logic_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\ciplatformwebapi_v1\\ciplatformwebapi_v1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\ciplatformwebapi_v1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\migrations\\20240710111000_inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\migrations\\20240710111000_inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\migrations\\20240710164324_initaila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\migrations\\20240710164324_initaila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\migrations\\20240711061030_initial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\migrations\\20240711061030_initial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\migrations\\20240711102306_initial96.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\migrations\\20240711102306_initial96.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\migrations\\20240711095518_initial4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\migrations\\20240711095518_initial4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\migrations\\20240711100846_initial69.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\migrations\\20240711100846_initial69.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\admin\\downloads\\onedrive_1_06-07-2024 (1)\\data_logic_layer\\migrations\\20240711092648_initial3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\migrations\\20240711092648_initial3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 262,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DALMissionApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\DALMissionApplication.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\DALMissionApplication.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\DALMissionApplication.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\DALMissionApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwBcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:17:02.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DALVolunteeringGoals.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\DALVolunteeringGoals.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\DALVolunteeringGoals.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\DALVolunteeringGoals.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\DALVolunteeringGoals.cs",
+              "ViewState": "AQIAAB4AAAAANDMzMzMLwCUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:19:19.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Mission.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Entity\\Mission.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Entity\\Mission.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Entity\\Mission.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Entity\\Mission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:46:18.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BALAdminUser.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Business_Logic_Layer\\BALAdminUser.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\BALAdminUser.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Business_Logic_Layer\\BALAdminUser.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\BALAdminUser.cs",
+              "ViewState": "AQIAAAoAAACgmZmZmRk9wBkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:41:30.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:56:47.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminUserController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\Controllers\\AdminUserController.cs",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Controllers\\AdminUserController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\Controllers\\AdminUserController.cs",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Controllers\\AdminUserController.cs",
+              "ViewState": "AQIAADEAAAAAZmZmZmYSwDoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:53:55.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DALAdminUser.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\DALAdminUser.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\DALAdminUser.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\DALAdminUser.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\DALAdminUser.cs",
+              "ViewState": "AQIAACAAAAAAaGZmZmbmv5sAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:44:02.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DALCity.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\DALCity.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\DALCity.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\DALCity.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\DALCity.cs",
+              "ViewState": "AQIAACMAAACAZmZmZmYawCUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:44:45.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DALMission.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\DALMission.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\DALMission.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\DALMission.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\DALMission.cs",
+              "ViewState": "AQIAAA0AAABgAQAAAAAQwDUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:43:50.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DALLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\DALLogin.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\DALLogin.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\DALLogin.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\DALLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:45:20.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BALLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Business_Logic_Layer\\BALLogin.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\BALLogin.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Business_Logic_Layer\\BALLogin.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\BALLogin.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAADgvyQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:14:17.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Business_Logic_Layer\\JWTService\\JwtService.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\JWTService\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Business_Logic_Layer\\JWTService\\JwtService.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\JWTService\\JwtService.cs",
+              "ViewState": "AQIAAAsAAACAmZmZmZkJwBUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:54:30.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DALCountry.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\DALCountry.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\DALCountry.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\DALCountry.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\DALCountry.cs",
+              "ViewState": "AQIAABgAAADA//////8XwHwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:37:53.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DALContactUs.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\DALContactUs.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\DALContactUs.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\DALContactUs.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\DALContactUs.cs",
+              "ViewState": "AQIAAA4AAAAAmpmZmZkdwCAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:24:30.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DALVolunteeringHours.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\DALVolunteeringHours.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\DALVolunteeringHours.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\DALVolunteeringHours.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\DALVolunteeringHours.cs",
+              "ViewState": "AQIAADUAAADAmZmZmZkpwJ0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:05:21.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DALCMS.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\DALCMS.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\DALCMS.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\DALCMS.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\DALCMS.cs",
+              "ViewState": "AQIAADUAAAAAnJmZmZkJwDAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:48:56.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BALMission.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Business_Logic_Layer\\BALMission.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\BALMission.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Business_Logic_Layer\\BALMission.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\BALMission.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:49:56.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\Program.cs",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\Program.cs",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Program.cs",
+              "ViewState": "AQIAABsAAAAgZmZmZmYkwC8AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:54:09.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Controllers\\CountryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:03:31.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MissionController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\Controllers\\MissionController.cs",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Controllers\\MissionController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\Controllers\\MissionController.cs",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Controllers\\MissionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:03:01.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CMSController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\Controllers\\CMSController.cs",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Controllers\\CMSController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\Controllers\\CMSController.cs",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Controllers\\CMSController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:50:20.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Countries.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Entity\\Countries.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Entity\\Countries.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Entity\\Countries.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Entity\\Countries.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:37:27.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Cities.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Entity\\Cities.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Entity\\Cities.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Entity\\Cities.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Entity\\Cities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:38:34.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Entity\\User.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:18:31.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VolunteeringHours.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Entity\\VolunteeringHours.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Entity\\VolunteeringHours.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Entity\\VolunteeringHours.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Entity\\VolunteeringHours.cs",
+              "ViewState": "AQIAAAYAAAAAzczMzMwUwBoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:14:10.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\Controllers\\CityController.cs",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Controllers\\CityController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:03:18.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "VolunteeringHoursController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\Controllers\\VolunteeringHoursController.cs",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Controllers\\VolunteeringHoursController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\Controllers\\VolunteeringHoursController.cs",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Controllers\\VolunteeringHoursController.cs",
+              "ViewState": "AQIAABYAAADAzMzMzMwiwBAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:37:39.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MissionSkillController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\Controllers\\MissionSkillController.cs",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Controllers\\MissionSkillController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\Controllers\\MissionSkillController.cs",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Controllers\\MissionSkillController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:01:15.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "VolunteeringGoalsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\Controllers\\VolunteeringGoalsController.cs",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Controllers\\VolunteeringGoalsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\Controllers\\VolunteeringGoalsController.cs",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Controllers\\VolunteeringGoalsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:40:02.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AdminMissionThemeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\Controllers\\AdminMissionThemeController.cs",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Controllers\\AdminMissionThemeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\Controllers\\AdminMissionThemeController.cs",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Controllers\\AdminMissionThemeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:17:59.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ContactUsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\Controllers\\ContactUsController.cs",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Controllers\\ContactUsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\Controllers\\ContactUsController.cs",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Controllers\\ContactUsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:29:44.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BALContactUs.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Business_Logic_Layer\\BALContactUs.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\BALContactUs.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Business_Logic_Layer\\BALContactUs.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\BALContactUs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:28:06.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20240711102306_initial96.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Migrations\\20240711102306_initial96.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Migrations\\20240711102306_initial96.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Migrations\\20240711102306_initial96.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Migrations\\20240711102306_initial96.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:23:06.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BALVolunteeringGoals.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Business_Logic_Layer\\BALVolunteeringGoals.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\BALVolunteeringGoals.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Business_Logic_Layer\\BALVolunteeringGoals.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\BALVolunteeringGoals.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:19:54.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BALVolunteeringHours.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Business_Logic_Layer\\BALVolunteeringHours.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\BALVolunteeringHours.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Business_Logic_Layer\\BALVolunteeringHours.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\BALVolunteeringHours.cs",
+              "ViewState": "AQIAABQAAABgmZmZmZkpwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:17:08.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Entity\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Entity\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Entity\\AppDbContext.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Entity\\AppDbContext.cs",
+              "ViewState": "AQIAAA0AAABgZmZmZmYswBkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:20:49.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20240711095518_initial4.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Migrations\\20240711095518_initial4.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Migrations\\20240711095518_initial4.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Migrations\\20240711095518_initial4.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Migrations\\20240711095518_initial4.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAhwHgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:55:18.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DALMissionSkill.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\DALMissionSkill.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\DALMissionSkill.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\DALMissionSkill.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\DALMissionSkill.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAhwHcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:10:23.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20240711100846_initial69.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Migrations\\20240711100846_initial69.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Migrations\\20240711100846_initial69.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Migrations\\20240711100846_initial69.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Migrations\\20240711100846_initial69.cs",
+              "ViewState": "AQIAACEAAADAmZmZmZklwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:08:47.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Entity\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Entity\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Entity\\BaseEntity.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Entity\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:39:14.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BALCMS.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Business_Logic_Layer\\BALCMS.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\BALCMS.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Business_Logic_Layer\\BALCMS.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\BALCMS.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:48:17.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20240711092648_initial3.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Migrations\\20240711092648_initial3.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Migrations\\20240711092648_initial3.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Migrations\\20240711092648_initial3.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Migrations\\20240711092648_initial3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:26:48.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ResponseResult.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Entity\\ResponseResult.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Entity\\ResponseResult.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Entity\\ResponseResult.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Entity\\ResponseResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:55:20.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BALCity.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Business_Logic_Layer\\BALCity.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\BALCity.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Business_Logic_Layer\\BALCity.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\BALCity.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:51:15.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BALCountry.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Business_Logic_Layer\\BALCountry.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\BALCountry.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Business_Logic_Layer\\BALCountry.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\BALCountry.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:50:59.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20240711061030_initial2.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Migrations\\20240711061030_initial2.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Migrations\\20240711061030_initial2.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Migrations\\20240711061030_initial2.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Migrations\\20240711061030_initial2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T06:10:30.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\appsettings.json",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\appsettings.json",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T09:43:28.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20240710170654_initii.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Migrations\\20240710170654_initii.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Migrations\\20240710170654_initii.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Migrations\\20240710170654_initii.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Migrations\\20240710170654_initii.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T17:06:54.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T05:59:09.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\appsettings.Development.json",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T05:59:14.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BALMissionApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Business_Logic_Layer\\BALMissionApplication.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\BALMissionApplication.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Business_Logic_Layer\\BALMissionApplication.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\BALMissionApplication.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwBoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:50:30.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MissionApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\Controllers\\MissionApplicationController.cs",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Controllers\\MissionApplicationController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\Controllers\\MissionApplicationController.cs",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Controllers\\MissionApplicationController.cs",
+              "ViewState": "AQIAAEMAAACA//////8jwFMAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:01:40.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "BALAdminMissionTheme.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Business_Logic_Layer\\BALAdminMissionTheme.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\BALAdminMissionTheme.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Business_Logic_Layer\\BALAdminMissionTheme.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\BALAdminMissionTheme.cs",
+              "ViewState": "AQIAABAAAADAzMzMzMwgwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:13:39.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BALMissionSkill.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Business_Logic_Layer\\BALMissionSkill.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\BALMissionSkill.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Business_Logic_Layer\\BALMissionSkill.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\BALMissionSkill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:50:11.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DALAdminMissionTheme.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\DALAdminMissionTheme.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\DALAdminMissionTheme.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\DALAdminMissionTheme.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\DALAdminMissionTheme.cs",
+              "ViewState": "AQIAACgAAABgZmZmZmYSwDsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:51:19.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20240710164324_initaila.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Migrations\\20240710164324_initaila.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Migrations\\20240710164324_initaila.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Migrations\\20240710164324_initaila.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Migrations\\20240710164324_initaila.cs",
+              "ViewState": "AQIAAAcAAABAMzMzMzMrwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:43:24.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Data_Logic_Layer.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Data_Logic_Layer.csproj",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Data_Logic_Layer.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Data_Logic_Layer.csproj",
+              "RelativeToolTip": "Data_Logic_Layer\\Data_Logic_Layer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T11:06:36.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20240710111000_inital.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Migrations\\20240710111000_inital.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Migrations\\20240710111000_inital.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Data_Logic_Layer\\Migrations\\20240710111000_inital.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Migrations\\20240710111000_inital.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:10:00.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Business_Logic_Layer.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Business_Logic_Layer\\Business_Logic_Layer.csproj",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\Business_Logic_Layer.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\Business_Logic_Layer\\Business_Logic_Layer.csproj",
+              "RelativeToolTip": "Business_Logic_Layer\\Business_Logic_Layer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-10T09:13:00.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CIPlatFormWebApi_V1.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\OneDrive_1_06-07-2024 (1)\\CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T06:20:52.335Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
